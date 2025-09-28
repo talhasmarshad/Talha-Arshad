@@ -24,8 +24,8 @@
 - CLoud Platforms: Amazon Web Services (AWS) - T-SQL, Data Modeling, Data Warehousing (Snowflake), Apache Kafka, Apache Airflow, ETL & real-time ingestion.  
 - Visualization: Power BI (Dashboards, KPI Modeling).
 
-Cloud Services 🛠️
-𝑨𝑾𝑺 𝑺𝒆𝒓𝒗𝒊𝒄𝒆𝒔: AWS S3, AWS Kinesis, AWS SNS, AWS Glue, Redshift, AWS VPC, Cloud Watch, AWS Lambda, AWS EMR, AWS Athena  
+**Cloud Services:** 🛠️
+AWS Services: AWS S3, AWS Kinesis, AWS SNS, AWS Glue, Redshift, AWS VPC, Cloud Watch, AWS Lambda, AWS EMR, AWS Athena  
 
 **Industrial Automation & Controls:**  
 - PLCs (Siemens, Delta), WinCC, SCADA/HMI design, Kepware, Node-RED, VFDs, Distributed I/O.  
