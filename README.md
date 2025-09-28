@@ -1,4 +1,4 @@
-# Hi, I'm Talha 👋
+# Hi, I'm Talha Arshad👋
 
 ## About Me 🚀
 🌐 IoT & Digital Transformation Leader with 10+ years of experience driving Industry 4.0 initiatives across **pharmaceuticals, steel, and textiles**.  
