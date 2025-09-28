@@ -2,41 +2,30 @@
 
 ## About Me 🚀
 🌐 IoT & Digital Transformation Leader with 10+ years of experience driving Industry 4.0 initiatives across **pharmaceuticals, steel, and textiles**.  
+☁️ Skilled in designing **cloud-native data pipelines, ETL workflows, and real-time streaming architectures**.  
 ⚡ Skilled in turning machine data into actionable insights by integrating **PLC/SCADA systems, edge devices, SQL databases, and Power BI dashboards**.  
 🤝 Passionate about bridging the gap between **OT & IT**, enabling predictive maintenance, and building real-time OEE & KPI monitoring systems.  
-📊 Strong background in **data engineering, industrial automation, and digital transformation** to enhance efficiency and business performance.  
+📊 Strong background in **Cloud Data Engineering, Industrial Automation, and Digital Transformation** to enhance efficiency and business performance.  
 
 ---
 
 ## My Experiences 🙌
-**Sr. Assistant Manager – IoT Projects Implementation Lead | PharmEvo Pvt. Ltd. (2024 – Present)**  
+**Deputy Manager – IoT Projects Implementation Lead | PharmEvo Pvt. Ltd. (2024 – Present)**  
+- Built **end-to-end dataflows**: IoT → Edge → SQL Server → Power BI. 
 - Leading IoT & automation rollouts: edge gateways, Node-RED pipelines, SQL & Power BI dashboards.  
 - Integrating **OPC-UA, MQTT, Modbus** into enterprise systems.  
 - Designing PLC logic & HMI (Siemens TIA, Delta) to improve workflows.  
 - Reduced unplanned downtime by ~30% through advanced troubleshooting.  
 
-**Assistant Manager – Electrical & Automation | Amreli Steels Limited (2023 – 2024)**  
-- Improved shift operations & applied root-cause analysis (Pareto, Fishbone).  
-- Planned & optimized spare parts procurement.  
-
-**Assistant Manager – Electrical | Unibro Industries (2020 – 2023)**  
-- Specialized in **digital printing machines (Reggiani & MS Italy)**.  
-- Developed PLC programs, integrated field instrumentation & sensors.  
-
-**Support Engineer | Business Systems International (2017 – 2020)**  
-- Installed, commissioned, and troubleshooted complex machines.  
-- Hands-on with mechanical, pneumatic, and electronic systems.  
-
-**Project Coordinator | Extreme Engineering Solutions (2015 – 2017)**  
-- Managed technical teams for site installations & system upgrades.  
-- Coordinated with ZTE & Telenor for telecom projects.  
-
 ---
 
 ## Technical Skills 🛠️
-**Data Engineering & Analytics:**  
-- SQL (MS SQL Server & T-SQL), Data Modeling, Data Warehousing (Snowflake), Apache Kafka, Apache Airflow, AWS, ETL & real-time ingestion.  
-- Visualization: Power BI (OEE Dashboards, KPI Modeling).  
+**Cloud Data Engineering & Analytics:**  
+- CLoud Platforms: Amazon Web Services (AWS) - T-SQL, Data Modeling, Data Warehousing (Snowflake), Apache Kafka, Apache Airflow, ETL & real-time ingestion.  
+- Visualization: Power BI (Dashboards, KPI Modeling).
+
+Cloud Services 🛠️
+𝑨𝑾𝑺 𝑺𝒆𝒓𝒗𝒊𝒄𝒆𝒔: AWS S3, AWS Kinesis, AWS SNS, AWS Glue, Redshift, AWS VPC, Cloud Watch, AWS Lambda, AWS EMR, AWS Athena  
 
 **Industrial Automation & Controls:**  
 - PLCs (Siemens, Delta), WinCC, SCADA/HMI design, Kepware, Node-RED, VFDs, Distributed I/O.  
@@ -67,12 +56,6 @@
 - **Data Analyst** – AINGENX *(Jan 2025)*  
 - **Advanced Predictive Maintenance using AI, IoT, Data Visualization & Power BI** – IoBM EMEC *(Aug 2025)*  
 - **Future of Pharma: AI Integration in Drug Discovery** – Terra Biz *(Sep 2024)*  
-
----
-
-## Education 🎓
-- **MBA – Supply Chain Management** | IoBM *(2020)*  
-- **B.E. – Electronics Engineering** | Iqra University *(2014)*  
 
 ---
 
