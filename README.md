@@ -25,7 +25,7 @@
 - Visualization: Power BI (Dashboards, KPI Modeling).
 
 **Cloud Services:** 🛠️
-AWS Services: AWS S3, AWS Kinesis, AWS SNS, AWS Glue, Redshift, AWS VPC, Cloud Watch, AWS Lambda, AWS EMR, AWS Athena  
+- AWS Services: AWS S3, AWS Kinesis, AWS SNS, AWS Glue, Redshift, AWS VPC, Cloud Watch, AWS Lambda, AWS EMR, AWS Athena  
 
 **Industrial Automation & Controls:**  
 - PLCs (Siemens, Delta), WinCC, SCADA/HMI design, Kepware, Node-RED, VFDs, Distributed I/O.  
