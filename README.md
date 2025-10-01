@@ -1,4 +1,12 @@
 # Hi, I'm Talha Arshad👋
+---
+
+## Let’s Connect 🤝
+📧 Email: [syedtalha.ees@gmail.com]  
+💼 LinkedIn: [(https://www.linkedin.com/in/talha121/)](#)  
+🐙 GitHub: [github.com/talhasmarshad](#)  
+
+---
 
 ## About Me 🚀
 🌐 IoT & Digital Transformation Leader with 10+ years of experience driving Industry 4.0 initiatives across **pharmaceuticals, steel, and textiles**.  
@@ -64,9 +72,4 @@
 - Recognized for reducing downtime and improving OEE through IoT.  
 - Led multi-million PKR automation & IoT rollouts successfully.  
 
----
 
-## Let’s Connect 🤝
-📧 Email: [syedtalha.ees@gmail.com]  
-💼 LinkedIn: [(https://www.linkedin.com/in/talha121/)](#)  
-🐙 GitHub: [github.com/talhasmarshad](#)  
